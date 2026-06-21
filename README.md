@@ -6,15 +6,11 @@ Yazılım destek ekibi için hızlı sistem raporu oluşturan basit .NET konsol 
 
 Kullanıcıdan gelen *"bilgisayarım yavaş"*, *"uygulama açılmıyor"* veya *"sistem bilgilerimi gönderin"* taleplerinde tek komutla teşhis verisi toplar.
 
-## Ekran görüntüleri
+## Ekran görüntüsü
 
-> PNG dosyalarını `docs/images/` klasörüne ekledikten sonra aşağıdaki görseller GitHub'da görünür.
+`dotnet run` komutu çalıştırıldığında uygulama konsolda sistem raporunu üretir:
 
-![Uygulama konsol çıktısı](docs/images/console-output.png)
-
-![Oluşturulan rapor dosyası](docs/images/report-file.png)
-
-*Ekran görüntüsü alma adımları: [docs/images/README.md](docs/images/README.md)*
+![Uygulama konsol çıktısı](docs/WindowsTerminal_SqIWb0zHP4.png)
 
 ## Ne işe yarar?
 
@@ -102,11 +98,9 @@ support-system-info-tool/
 ├── Services/
 │   └── SystemInfoCollector.cs      # Bilgi toplama ve formatlama
 ├── docs/
-│   ├── images/                     # README ekran görüntüleri
-│   │   ├── console-output.png      # (siz ekleyeceksiniz)
-│   │   └── report-file.png         # (siz ekleyeceksiniz)
+│   ├── WindowsTerminal_SqIWb0zHP4.png  # Konsol çıktısı ekran görüntüsü
 │   └── samples/
-│       └── ornek-rapor.txt         # Örnek rapor çıktısı
+│       └── ornek-rapor.txt             # Örnek rapor çıktısı
 └── README.md
 ```
 
