@@ -29,7 +29,7 @@ Bos RAM:         8,24 GB
     MAC: AA:BB:CC:DD:EE:FF
     IP:  192.168.1.100
   Ethernet (Down)
-    MAC: 11:22:33:44:55:66
+    MAC: 11:22:33:88:55:11
     IP:  Yok
 
 --- YUKLU PROGRAMLAR (ilk 15) ---
