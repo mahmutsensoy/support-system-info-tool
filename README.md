@@ -10,7 +10,8 @@ Kullanıcıdan gelen *"bilgisayarım yavaş"*, *"uygulama açılmıyor"* veya *"
 
 `dotnet run` komutu çalıştırıldığında uygulama konsolda sistem raporunu üretir:
 
-![Uygulama konsol çıktısı](docs/WindowsTerminal_SqIWb0zHP4.png)
+![Uygulama konsol çıktısı](docs/images/WindowsTerminal_SqIWb0zHP4.png)
+
 
 ## Ne işe yarar?
 
