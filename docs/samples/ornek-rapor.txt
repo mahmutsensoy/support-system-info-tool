@@ -1,0 +1,54 @@
+========================================
+   SISTEM BILGI RAPORU
+   Yazilim Destek Araci
+========================================
+
+Olusturulma:     2026-06-21 14:30:00
+Bilgisayar Adi:  DESKTOP-ORNEK01
+
+--- ISLETIM SISTEMI ---
+OS:              Microsoft Windows 10.0.26200
+Surum:           Microsoft Windows NT 10.0.26200.0
+Mimari:          X64
+Calisma Suresi:  2 gun, 5 saat, 12 dakika
+
+--- DONANIM ---
+Islemci:         Intel(R) Core(TM) i7-11800H @ 2.30GHz
+Cekirdek:        16
+Toplam RAM:      16,00 GB
+Bos RAM:         8,24 GB
+
+--- DISKLER ---
+  C:\ (Windows)
+    Tur: Fixed | Toplam: 476,94 GB | Bos: 120,50 GB | Dolu: 74,7%
+  D:\ (Veri)
+    Tur: Fixed | Toplam: 931,50 GB | Bos: 500,00 GB | Dolu: 46,3%
+
+--- AG ADAPTORLERI ---
+  Wi-Fi (Up)
+    MAC: AA:BB:CC:DD:EE:FF
+    IP:  192.168.1.100
+  Ethernet (Down)
+    MAC: 11:22:33:44:55:66
+    IP:  Yok
+
+--- YUKLU PROGRAMLAR (ilk 15) ---
+  - Google Chrome
+  - Microsoft Edge
+  - Microsoft Visual Studio 2022
+  - Microsoft .NET SDK
+  - Git
+  - 7-Zip
+  - Adobe Acrobat Reader
+  - Notepad++
+  - Slack
+  - Zoom
+  - Microsoft Teams
+  - VLC media player
+  - WinRAR
+  - Spotify
+  - Docker Desktop
+
+========================================
+Rapor sonu. Destek ekibine bu dosyayi gonderebilirsiniz.
+========================================

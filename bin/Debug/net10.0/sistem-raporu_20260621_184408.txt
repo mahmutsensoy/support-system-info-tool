@@ -1,0 +1,174 @@
+﻿========================================
+   SISTEM BILGI RAPORU
+   Yazilim Destek Araci
+========================================
+
+Olusturulma:     2026-06-21 18:44:08
+Bilgisayar Adi:  DESKTOP-A3HM78V
+
+--- ISLETIM SISTEMI ---
+OS:              Microsoft Windows 10.0.26200
+Surum:           Microsoft Windows NT 10.0.26200.0
+Mimari:          X64
+Calisma Suresi:  4 gun, 22 saat, 11 dakika
+
+--- DONANIM ---
+Islemci:         11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+Cekirdek:        16
+Toplam RAM:      15,75 GB
+Bos RAM:         3,54 GB
+
+--- DISKLER ---
+  C:\ ()
+    Tur: Fixed | Toplam: 464,77 GB | Bos: 307,27 GB | Dolu: 33,9%
+  D:\ (Dosyalar)
+    Tur: Fixed | Toplam: 931,50 GB | Bos: 488,44 GB | Dolu: 47,6%
+
+--- AG ADAPTORLERI ---
+  Ethernet (Down)
+    MAC: B0:25:AA:45:63:3C
+    IP:  169.254.67.219
+  Tailscale (Up)
+    MAC: Yok
+    IP:  100.124.96.25
+  Yerel Ağ Bağlantısı* 1 (Down)
+    MAC: E8:F4:08:BC:63:77
+    IP:  169.254.112.33
+  Yerel Ağ Bağlantısı* 10 (Down)
+    MAC: EA:F4:08:BC:63:76
+    IP:  169.254.183.250
+  Wi-Fi (Up)
+    MAC: E8:F4:08:BC:63:76
+    IP:  192.168.0.233
+  Loopback Pseudo-Interface 1 (Up)
+    MAC: Yok
+    IP:  127.0.0.1
+  Ethernet-WFP Native MAC Layer LightWeight Filter-0000 (Down)
+    MAC: B0:25:AA:45:63:3C
+    IP:  Yok
+  Ethernet-QoS Packet Scheduler-0000 (Down)
+    MAC: B0:25:AA:45:63:3C
+    IP:  Yok
+  Ethernet-WFP 802.3 MAC Layer LightWeight Filter-0000 (Down)
+    MAC: B0:25:AA:45:63:3C
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 7-WFP Native MAC Layer LightWeight Filter-0000 (Up)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 7-QoS Packet Scheduler-0000 (Up)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 8-WFP Native MAC Layer LightWeight Filter-0000 (Up)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 8-QoS Packet Scheduler-0000 (Up)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 9-WFP Native MAC Layer LightWeight Filter-0000 (Up)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 9-QoS Packet Scheduler-0000 (Up)
+    MAC: Yok
+    IP:  Yok
+  Ethernet (Çekirdek Hata Ayıklayıcısı) (NotPresent)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 7 (Up)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 8 (Up)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 9 (Up)
+    MAC: Yok
+    IP:  Yok
+  Bluetooth Ağ Bağlantısı (NotPresent)
+    MAC: E8:F4:08:BC:63:7A
+    IP:  Yok
+  Ethernet 2 (NotPresent)
+    MAC: 26:CD:CB:7C:FD:11
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 6 (Down)
+    MAC: Yok
+    IP:  Yok
+  Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000 (Up)
+    MAC: E8:F4:08:BC:63:76
+    IP:  Yok
+  Wi-Fi-Virtual WiFi Filter Driver-0000 (Up)
+    MAC: E8:F4:08:BC:63:76
+    IP:  Yok
+  Wi-Fi-Native WiFi Filter Driver-0000 (Up)
+    MAC: E8:F4:08:BC:63:76
+    IP:  Yok
+  Wi-Fi-QoS Packet Scheduler-0000 (Up)
+    MAC: E8:F4:08:BC:63:76
+    IP:  Yok
+  Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000 (Up)
+    MAC: E8:F4:08:BC:63:76
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 1-WFP Native MAC Layer LightWeight Filter-0000 (Down)
+    MAC: E8:F4:08:BC:63:77
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 1-Native WiFi Filter Driver-0000 (Down)
+    MAC: E8:F4:08:BC:63:77
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 1-QoS Packet Scheduler-0000 (Down)
+    MAC: E8:F4:08:BC:63:77
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 1-WFP 802.3 MAC Layer LightWeight Filter-0000 (Down)
+    MAC: E8:F4:08:BC:63:77
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 10-WFP Native MAC Layer LightWeight Filter-0000 (Down)
+    MAC: EA:F4:08:BC:63:76
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 10-Native WiFi Filter Driver-0000 (Down)
+    MAC: EA:F4:08:BC:63:76
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 10-QoS Packet Scheduler-0000 (Down)
+    MAC: EA:F4:08:BC:63:76
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 10-WFP 802.3 MAC Layer LightWeight Filter-0000 (Down)
+    MAC: EA:F4:08:BC:63:76
+    IP:  Yok
+  Teredo Tunneling Pseudo-Interface (NotPresent)
+    MAC: Yok
+    IP:  Yok
+  Microsoft IP-HTTPS Platform Interface (NotPresent)
+    MAC: Yok
+    IP:  Yok
+  6to4 Adapter (NotPresent)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 2 (Down)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 3 (Down)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 4 (Down)
+    MAC: Yok
+    IP:  Yok
+  Yerel Ağ Bağlantısı* 5 (Down)
+    MAC: Yok
+    IP:  Yok
+
+--- YUKLU PROGRAMLAR (ilk 15) ---
+  - .NET for Android Templates (x64)
+  - .NET MAUI SDK (x64)
+  - .NET MAUI Templates (x64)
+  - ClickOnce Bootstrapper Package for Microsoft .NET Framework
+  - Control Center Service
+  - Copilot
+  - Cursor
+  - DiagnosticsHub_CollectionService
+  - Entity Framework 6.5.0 Tools  for Visual Studio 2022
+  - Epic Games Launcher
+  - Epic Online Services
+  - ESET Security
+  - FileZilla 3.70.6
+  - Git
+  - Google Chrome
+
+========================================
+Rapor sonu. Destek ekibine bu dosyayi gonderebilirsiniz.
+========================================
